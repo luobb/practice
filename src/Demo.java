@@ -12,5 +12,7 @@ public class Demo {
         }
         System.out.println("nihaome");
         System.out.println("hahaha");
+        System.out.println("hahaha");
+        System.out.println("hahaha");
     }
 }
